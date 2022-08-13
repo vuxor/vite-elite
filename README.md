@@ -1,0 +1,2 @@
+# vite-elite
+Vite template
